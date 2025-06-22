@@ -2,6 +2,12 @@
 
 Make a generic outline with GEGL, nothing fancy like my other plugins.
 
+Download here (make sure to put it in the right directory)
+
+https://github.com/LinuxBeaver/GEGL_GIMP_PLUGIN_outline/releases
+
+
+
 ![image](https://github.com/user-attachments/assets/a27226a1-7333-4906-a062-13b8acc21e13)
 
 
