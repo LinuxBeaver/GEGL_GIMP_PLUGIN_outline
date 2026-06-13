@@ -58,7 +58,7 @@ property_int (grow, _("Grow radius"), 12)
    ui_meta     ("unit", "pixel-distance")
 
 property_color  (color, _("Color"), "black")
-  description   (_("The outline's color (defaults to 'black')"))
+  description   (_("The outlineꞌs color (defaults to ꞌblackꞌ)"))
 
 property_double (opacity, _("Opacity"), 1)
   description   (_("Opacity of the outline"))
